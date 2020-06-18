@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Maryam Shahpasand"
-  avatar           : "download.png"
+  avatar           : "profile.png"
   bio              : "PHD Student at Macquaire University"
   location         : "Sydney-Australia"
   employer         :
  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Imttob0AAAAJ&hl=en"
-  email            :
+  email            : "maryam.shahpasand@mq.edu.au"
   researchgate     :  "https://www.researchgate.net/profile/Maryam_Shahpasand2"
   uri              :
   bitbucket        :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/maryam-shahpasand-2452a96b/?originalSubdomain=au"
-  orcid            : "http://orcid.org/yourorcidurl"
+#  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+#  stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+ # twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
