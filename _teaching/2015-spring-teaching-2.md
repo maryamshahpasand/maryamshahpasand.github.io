@@ -1,20 +1,12 @@
 ---
-title: "Teaching experience 2"
+title: "IT & Society"
 collection: teaching
-type: "Workshop"
+type: "Casual Teaching (practical)"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Macquarie University, Science and Engineering Faculty, Computing Department."
+date: 2019 S1 
+location: "Sydney, Australia"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+[COMP1800 - IT & Society HandBook]"https://coursehandbook.mq.edu.au/2020/units/COMP1800"
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
