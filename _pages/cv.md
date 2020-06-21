@@ -17,15 +17,19 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Sept. 2014 – Jan. 2018: Software Developer and Data Analyst
+  * Tehran Municipality ICT Organization 
+  * I participated in software development and data analytics of automatic fare collection system in Tehran (electronic tickets).
+  
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* April. 2014 – Nov. 2014: Data Mining Assistant
+  * The Mostazafan Foundation
+  * Cost and benefits of subsidiaries are simulated based on analyzing of the business and use of prediction and categorization algorithms.
+   
+* Nov. 2013 – March 2014: Information Security Analyst
+  * Amirkabir Imen Rayane
+  * Design and analysis of security algorithms for national browser project.
+  
   
 Skills
 ======
