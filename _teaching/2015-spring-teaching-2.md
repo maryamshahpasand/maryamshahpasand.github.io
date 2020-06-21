@@ -8,5 +8,5 @@ date: 2019 S1
 location: "Sydney, Australia"
 ---
 
-[COMP1800 - IT & Society HandBook]"https://coursehandbook.mq.edu.au/2020/units/COMP1800"
+[COMP1800 - IT & Society HandBook](https://coursehandbook.mq.edu.au/2020/units/COMP1800)
 
