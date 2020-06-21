@@ -1,9 +1,9 @@
 ---
-title: "IT & Society"
+title: "Introduction to Business Information Systems"
 collection: teaching
 type: "Casual Teaching (practical)"
 permalink: /teaching/2015-spring-teaching-1
-venue: "Macquarie University, Science and Engineering Faculty, Computing Department."
+venue: "Macquarie University, Science and Engineering Faculty, Computing Department"
 date: 2019 S1 and S2
 location: "Sydney, Australia"
 ---
@@ -17,7 +17,7 @@ title: "Introduction to Business Information Systems"
 collection: teaching
 type: "Casual Teaching (practical)"
 permalink: /teaching/2019-spring-teaching-3
-venue: "Macquarie University, Science and Engineering Faculty, Computing Department."
+venue: "Macquarie University, Science and Engineering Faculty, Computing Department"
 date: 2019 S1 and S2 
 location: "Sydney, Australia"
 ---
