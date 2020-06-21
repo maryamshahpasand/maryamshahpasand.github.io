@@ -20,6 +20,6 @@ redirect_from:
   * Nov. 2014
   * Supervisor: University of Tehran
 
-* Secure Web Browser M
+* Secure Web Browser
   * March 2014 
   * Supervisor: Amirkabir University
