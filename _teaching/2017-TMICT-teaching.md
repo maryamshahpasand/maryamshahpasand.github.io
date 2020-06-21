@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Cyber Security"
+title: "Work Evaluation "
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2017-TMICT-teaching
