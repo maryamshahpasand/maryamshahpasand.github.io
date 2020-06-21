@@ -4,7 +4,7 @@ collection: teaching
 type: "Lecturer"
 permalink: /teaching/2015-noor-teaching
 venue: "Noor University of Applied Science"
-date: 2017-01-01
+date: 2015-01-01
 location: "Tehran, Iran"
 ---
 
